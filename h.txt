@@ -1,0 +1,24 @@
+// const onSubmit = async (e) => {
+        // e.preventDefault();
+
+        // alert(Titre + ' ' + Description + " " + Prix + "  " + Category + " . " + Img)
+        // const data = {
+        //     Titre: Titre,
+        //     Description: Description,
+        //     Prix: Prix,
+        //     Category: Category,
+        //     Img: Img,
+        // }
+        // await axios.post('http://127.0.0.1:8000/api/admin/product/', data)
+        //     .then(() => alert('saved successfully'))
+        //     .catch((error) => {
+        //         console.error(error)
+        //     })
+        // }
+        //>
+
+
+        // const [titre, onChangeTitre] = useState('')
+        // const Change = (text) => {
+        //     onChangeTitre(text)
+        // }

@@ -14,7 +14,6 @@ function App() {
           <Route path='/dashboard' Component={Dashboard} />
           <Route path='/New' Component={Add} />
       </Routes>
-      <Profile />
     </BrowserRouter>
     </div>
   );

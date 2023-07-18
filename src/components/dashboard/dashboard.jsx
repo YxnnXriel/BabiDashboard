@@ -9,7 +9,6 @@ const Dashboard = () => {
   return (
 
     <>
-      
       <main>
 
         <h1>Dashboard</h1>
@@ -146,7 +145,7 @@ const Dashboard = () => {
 
 
       <div class="right">
-{/* 
+
         <div class="top">
           <button id="menu-btn" >
             <span class="material-icons-sharp">menu</span>
@@ -162,7 +161,7 @@ const Dashboard = () => {
           <div class="profile-photo">
             <img src={AdutAkech} alt="" />
           </div>
-        </div> */}
+        </div>
 
         <div class="recent-updates">
           <h2>Recent Update</h2>
